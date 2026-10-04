@@ -1,0 +1,11 @@
+{
+  "name": "FieldPulse - Mobile Workforce, Attendance & Client Ops",
+  "description": "Secure mobile application for GPS attendance marking, duty assignment, leave requests, payroll processing, client follow-ups with WhatsApp integration, and manager reporting dashboards.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
